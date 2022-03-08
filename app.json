@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "FaceDetector",
+    "slug": "FaceDetector",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "owner": "kartikeyvaish",
+    "description": "Example app showing how to use the Expo FaceDetector",
+    "scheme": "facedetector",
+    "platforms": [
+      "android"
+    ],
+    "githubUrl": "https://github.com/kartikeyvaish/FaceDetector",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "jsEngine": "hermes",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "userInterfaceStyle": "automatic",
+    "androidNavigationBar": {
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "jsEngine": "hermes"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "jsEngine": "hermes"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "facedetector",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1",
+    "expo-camera": "~12.1.2",
+    "expo-face-detector": "~11.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12",
+    "typescript": "~4.3.5"
+  },
+  "author": {
+    "name": "Kartikey Vaish",
+    "email": "kartikeyvaish99@gmail.com",
+    "url": "https://github.com/kartikeyvaish"
+  },
+  "bugs": {
+    "email": "kartikeyvaish99@gmail.com",
+    "url": "https://github.com/kartikeyvaish/FaceDetector/issues"
+  },
+  "contributors": [
+    "Kartikey Vaish"
+  ],
+  "homepage": "https://github.com/kartikeyvaish/FaceDetector",
+  "license": "MIT",
+  "keywords": [
+    "facedetector",
+    "face",
+    "detection",
+    "react",
+    "react-native",
+    "react-native-web",
+    "expo",
+    "expo-camera",
+    "expo-face-detector"
+  ]
+}
