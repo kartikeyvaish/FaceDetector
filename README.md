@@ -6,6 +6,10 @@
 
 This is an Example app to show usage for Expo Face Detector.
 
+## Snack Link
+
+Here's a snack link for you to try out: https://snack.expo.dev/@kartikeyvaish/facedetector
+
 ## Development Setup
 
 ### Step 1: Install Node.js from the [Node.js official website](https://nodejs.org/en/).
