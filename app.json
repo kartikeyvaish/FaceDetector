@@ -37,7 +37,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "jsEngine": "hermes"
+      "jsEngine": "hermes",
+      "package": "com.kartikeyvaish.FaceDetector"
     },
     "web": {
       "favicon": "./assets/favicon.png"
